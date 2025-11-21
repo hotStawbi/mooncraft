@@ -1,6 +1,35 @@
-# mooncraft
+# Mooncraft
 Moon's minecraft modlist
 
+## Instructions
+- Download Prism Launcher : https://prismlauncher.org/
+- Download the Mod Pack from Moon's Discord Server
+
+Once you've installed Prism Launcher, logged in, and downloaded the mods, you can set up the modpack by either:
+- Dragging the Mooncraft_1.0.zip file directly into the Prism Launcher window and clicking "OK"
+- OR Clicking "Create Instance" in Prism Launcher, selecting "Import", then "Browse", and then selecting the Mooncraft_1.0.zip file. and clicking "OK"
+
+The default RAM allocation may be set to 20 Gigabytes. If your system has less than this you can set it to a lower value; ideally above 8 Gigabytes, probably.
+To do this:
+- Right click on the "Mooncraft_1.0" instance in Prism Launcher.
+- Select "Edit"
+- Navigate to the "Settings" tab
+- Under the "Memory" section, adjust the "Maximum memory allocation" value to another value:
+  - 8 Gigabytes (8192 MiB)
+  - 10 Gigabytes (10240 MiB)
+  - 12 Gigabytes (12288 MiB)
+  - 16 Gigabytes (16384)
+  - and so on
+
+That should be it for set up. Make sure you've logged in to your Minecraft account.
+
+## Shaders (Optional)
+
+I have included two versions of the Complementary shader pack, however more shader packs can be downloaded from within the launcher by right clicking on the instance, selecting "Edit", then navigating to "Shader packs", then clicking "Download shaders".
+You can also import shader packs you've downloaded elsewhere by dragging them into the "Shader packs" tab, directly.
+
+
+## Mod List
 - [3d\-Skin\-Layers](https://modrinth.com/mod/zV5r3pPn) [1\.9\.2] by tr7zw
 - [Accessories](https://modrinth.com/mod/jtmvUHXj) [1\.1\.0\-beta\.52\+1\.21\.1] by Blodhgarm, chyzman, Dr\.Zeal
 - [AddonsLib](https://modrinth.com/mod/cl5ec0Qm) [1\.21\.1\-1\.8] by Samlegamer
