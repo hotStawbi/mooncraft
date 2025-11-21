@@ -25,7 +25,7 @@ That should be it for set up. Make sure you've logged in to your Minecraft accou
 
 ## Shaders (Optional)
 
-I have included two versions of the Complementary shader pack, however more shader packs can be downloaded from within the launcher by right clicking on the instance, selecting "Edit", then navigating to "Shader packs", then clicking "Download shaders".
+I have included two versions of the [Complementary shader pack](https://www.complementary.dev/shaders/) as well as the [Solas shader pack](https://modrinth.com/shader/solas-shader/versions), however more shader packs can be downloaded from within the launcher by right clicking on the instance, selecting "Edit", then navigating to "Shader packs", then clicking "Download shaders".
 You can also import shader packs you've downloaded elsewhere by dragging them into the "Shader packs" tab, directly.
 
 
