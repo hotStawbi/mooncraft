@@ -22,7 +22,7 @@ To do this:
   - 16 Gigabytes (16384)
   - and so on
 
-That should be it for set up. Make sure you've logged in to your Minecraft account.
+That should be it for set up. Make sure you've logged in to your Minecraft account. Then double click the Mooncraft_1.0 instance to launch.
 
 ## Shaders (Optional)
 
