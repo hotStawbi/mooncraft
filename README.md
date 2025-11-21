@@ -2,7 +2,7 @@
 Moon's minecraft modlist
 
 ## Instructions
-- Download Prism Launcher : https://prismlauncher.org/
+- Download [Prism Launcher](https://prismlauncher.org/)
 - Download the Mod Pack from Moon's Discord Server
 
 Once you've installed Prism Launcher, logged in, and downloaded the mods, you can set up the modpack by either:
