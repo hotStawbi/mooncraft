@@ -10,6 +10,7 @@ Once you've installed Prism Launcher, logged in, and downloaded the mods, you ca
 - OR Clicking "Create Instance" in Prism Launcher, selecting "Import", then "Browse", and then selecting the Mooncraft_1.0.zip file. and clicking "OK"
 
 The default RAM allocation may be set to 20 Gigabytes. If your system has less than this you can set it to a lower value; ideally above 8 Gigabytes, probably.
+
 To do this:
 - Right click on the "Mooncraft_1.0" instance in Prism Launcher.
 - Select "Edit"
