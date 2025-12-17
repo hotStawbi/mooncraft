@@ -7,12 +7,12 @@ Moon's minecraft modlist
 
 Once you've installed Prism Launcher, logged in, and downloaded the mods, you can set up the modpack by either:
 - Dragging the Mooncraft_1.1.zip file directly into the Prism Launcher window and clicking "OK"
-- OR Clicking "Create Instance" in Prism Launcher, selecting "Import", then "Browse", and then selecting the Mooncraft_1.0.zip file. and clicking "OK"
+- OR Clicking "Create Instance" in Prism Launcher, selecting "Import", then "Browse", and then selecting the Mooncraft_1.1.zip file. and clicking "OK"
 
 The default RAM allocation may be set to 20 Gigabytes. If your system has less than this you can set it to a lower value; ideally above 8 Gigabytes, probably.
 
 To do this:
-- Right click on the "Mooncraft_1.0" instance in Prism Launcher.
+- Right click on the "Mooncraft_1.1" instance in Prism Launcher.
 - Select "Edit"
 - Navigate to the "Settings" tab
 - Under the "Memory" section, adjust the "Maximum memory allocation" value to another value:
@@ -22,7 +22,7 @@ To do this:
   - 16 Gigabytes (16384)
   - and so on
 
-That should be it for set up. Make sure you've logged in to your Minecraft account. Then double click the Mooncraft_1.0 instance to launch.
+That should be it for set up. Make sure you've logged in to your Minecraft account. Then double click the Mooncraft_1.1 instance to launch.
 
 ## Shaders (Optional)
 
