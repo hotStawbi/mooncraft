@@ -6,7 +6,7 @@ Moon's minecraft modlist
 - Download the Mod Pack from Moon's Discord Server
 
 Once you've installed Prism Launcher, logged in, and downloaded the mods, you can set up the modpack by either:
-- Dragging the Mooncraft_1.0.zip file directly into the Prism Launcher window and clicking "OK"
+- Dragging the Mooncraft_1.1.zip file directly into the Prism Launcher window and clicking "OK"
 - OR Clicking "Create Instance" in Prism Launcher, selecting "Import", then "Browse", and then selecting the Mooncraft_1.0.zip file. and clicking "OK"
 
 The default RAM allocation may be set to 20 Gigabytes. If your system has less than this you can set it to a lower value; ideally above 8 Gigabytes, probably.
@@ -197,6 +197,7 @@ You can also import shader packs you've downloaded elsewhere by dragging them in
 - [TerraBlender](https://modrinth.com/mod/kkmrDlKT) [4\.1\.0\.8] by Adubbz
 - [The Aether](https://modrinth.com/mod/YhmgMVyu) [1\.5\.11] by AlphaMode, baguchi, bconlon, Blodhgarm, Burning Cactus, Drullkus, Hugo Payn, Jaryt, Katie 'Oz' Payn, quek, Raptor, reetam, RENREN, sunsette
 - [The Bumblezone \- Fabric](https://modrinth.com/mod/eA8SXqWL) [7\.11\.5\+1\.21\.1\-fabric] by TelepathicGrunt
+- [Touhou Little Maid: Orihime](https://modrinth.com/mod/Tv58SCnQ) [0\.5\.0\-neo1\.4\.6] by Sh1roCu
 - [Towns and Towers](https://modrinth.com/mod/DjLobEOy) [1\.13\.7] by Kubek and Biban\_Auriu, Cristelknight999
 - [Transfer Pet Owner](https://modrinth.com/mod/7iTYUCAo) [1\-v\.1\.0\.0] by Jodek
 - [TrashSlot](https://modrinth.com/mod/vRYk0bv7) [21\.1\.4] by BlayTheNinth
