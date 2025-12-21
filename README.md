@@ -3,15 +3,18 @@ Moon's minecraft modlist
 
 ## HEADS UP FOR UPGRADING
 ### MAP DATA AND CUSTOM WAYPOINTS ARE SAVED IN YOUR INSTALL OF MINECRAFT AND DON'T CARRY OVER BETWEEN UPDATES
-### TO FIX THIS YOU CAN RIGHT CLICK ON THE PREVIOUS INSTANCE OF MOONCRAFT, CLICK "Folder", ENTER THE "minecraft" FOLDER, AND FIND THE FOLDER CALLED "journeymap" AS WELL AS A FOLDER CALLED "waypoints" AND COPY THEM. THEN RIGHT CLICK THE NEW INSTANCE OF MOONCRAFT, CLICK "Folder",  ENTER THE "minecraft" FOLDER , AND PASTE THE FOLDERS IN THERE, OVERWRITING WHEN NECESSARY.
-
+### TO FIX THIS YOU CAN:
+- RIGHT CLICK THE NEW INSTANCE OF MOONCRAFT, CLICK "Folder", THEN ENTER THE "minecraft" FOLDER.
+  - If there is a folder called "journeymap" and/or "waypoints", DELETE THEM.
+- RIGHT CLICK ON THE PREVIOUS INSTANCE OF MOONCRAFT, CLICK "Folder", ENTER THE "minecraft" FOLDER, AND FIND THE FOLDER CALLED "journeymap" AS WELL AS A FOLDER CALLED "waypoints" AND COPY THEM.
+- PASTE THESE FILES INTO THE NEW INSTANCE OF MOONCRAFT'S "minecraft" FOLDER.
 ## Instructions
 - Download [Prism Launcher](https://prismlauncher.org/)
 - Download the Mod Pack from Moon's Discord Server
 
 Once you've installed Prism Launcher, logged in, and downloaded the mods, you can set up the modpack by either:
 - Dragging the Mooncraft_1.2.1.zip file directly into the Prism Launcher window and clicking "OK"
-- OR Clicking "Create Instance" in Prism Launcher, selecting "Import", then "Browse", and then selecting the Mooncraft_1.2.1.zip file. and clicking "OK"
+- __OR__ Clicking "Create Instance" in Prism Launcher, selecting "Import", then "Browse", and then selecting the Mooncraft_1.2.1.zip file. and clicking "OK"
 
 The default RAM allocation may be set to 20 Gigabytes. If your system has less than this you can set it to a lower value; ideally above 8 Gigabytes, probably.
 
