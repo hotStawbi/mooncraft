@@ -6,13 +6,13 @@ Moon's minecraft modlist
 - Download the Mod Pack from Moon's Discord Server
 
 Once you've installed Prism Launcher, logged in, and downloaded the mods, you can set up the modpack by either:
-- Dragging the Mooncraft_1.1.zip file directly into the Prism Launcher window and clicking "OK"
-- OR Clicking "Create Instance" in Prism Launcher, selecting "Import", then "Browse", and then selecting the Mooncraft_1.1.zip file. and clicking "OK"
+- Dragging the Mooncraft_1.2.zip file directly into the Prism Launcher window and clicking "OK"
+- OR Clicking "Create Instance" in Prism Launcher, selecting "Import", then "Browse", and then selecting the Mooncraft_1.2.zip file. and clicking "OK"
 
 The default RAM allocation may be set to 20 Gigabytes. If your system has less than this you can set it to a lower value; ideally above 8 Gigabytes, probably.
 
 To do this:
-- Right click on the "Mooncraft_1.1" instance in Prism Launcher.
+- Right click on the "Mooncraft_1.2" instance in Prism Launcher.
 - Select "Edit"
 - Navigate to the "Settings" tab
 - Under the "Memory" section, adjust the "Maximum memory allocation" value to another value:
@@ -22,7 +22,7 @@ To do this:
   - 16 Gigabytes (16384)
   - and so on
 
-That should be it for set up. Make sure you've logged in to your Minecraft account. Then double click the Mooncraft_1.1 instance to launch.
+That should be it for set up. Make sure you've logged in to your Minecraft account. Then double click the Mooncraft_1.2 instance to launch.
 
 ## Shaders (Optional)
 
@@ -56,6 +56,7 @@ You can also import shader packs you've downloaded elsewhere by dragging them in
 - [BiomesOPlenty](https://modrinth.com/mod/HXF82T3G) [21\.1\.0\.12] by Adubbz, Forstride
 - [Bobby](https://modrinth.com/mod/M08ruV16) [5\.2\.4\+mc1\.21] by johni0702
 - [Bookshelf](https://modrinth.com/mod/uy4Cnpcm) [21\.1\.78] by Darkhax
+- [CICADA](https://modrinth.com/mod/IwCkru1D) [0\.14\.3\+1\.21\-1\.21\.1] by enjarai
 - [Cardinal Components API](https://modrinth.com/mod/K01OU20C) [6\.1\.2] by UpcraftLP, Pyrofab
 - [Carry On](https://modrinth.com/mod/joEfVgkn) [2\.2\.2] by Tschipp, Purplicious\_Cow
 - [Chat Heads](https://modrinth.com/mod/Wb5oqrBJ) [0\.14\.0] by dzwdz, Fourmisain
@@ -93,6 +94,7 @@ You can also import shader packs you've downloaded elsewhere by dragging them in
 - [Epic Power Bracelets](https://modrinth.com/mod/FaAx7QQX) [1\.1\.1] by luavixen, Lupin
 - [Equipment Compare](https://modrinth.com/mod/CYSUVOdj) [1\.3\.13] by Grend
 - [Euphoria Patcher](https://modrinth.com/mod/4H6sumDB) [1\.7\.4\-r5\.6\.1\-neoforge] by SpacEagle17
+- [Explorer's Compass](https://modrinth.com/mod/RV1qfVQ8) [1\.21\.1\-2\.2\.5\-fabric] by ChaosTheDude
 - [Explorify](https://modrinth.com/mod/HSfsxuTo) [1\.6\.4] by bebebea\_loste
 - [Fabric API](https://modrinth.com/mod/P7dR8mSH) [0\.116\.7\+1\.21\.1] by FabricMC
 - [Fabric Language Kotlin](https://modrinth.com/mod/Ha28R6CL) [1\.13\.7\+kotlin\.2\.2\.21] by FabricMC
@@ -114,6 +116,8 @@ You can also import shader packs you've downloaded elsewhere by dragging them in
 - [Immersive Melodies](https://modrinth.com/mod/TaSmHw8V) [0\.6\.2\+1\.21\.1] by Luke100000
 - [Inventory Essentials](https://modrinth.com/mod/Boon8xwi) [21\.1\.8] by BlayTheNinth
 - [Iris](https://modrinth.com/mod/YL57xq9U) [1\.8\.8\+mc1\.21\.1] by coderbot, IMS212, Justsnoopy30, FoundationGames
+- [Iron Barrels](https://modrinth.com/mod/7qvEFHn9) [1\.0\.0] by Me\!
+- [Iron Chests](https://modrinth.com/mod/7mHyGgvW) [2\.0\.4] by anner
 - [IronSmelters](https://modrinth.com/mod/il2omh0z) [21\.1\.0\.3] by Jaredlll08
 - [Jade](https://modrinth.com/mod/nvQzSEkH) [15\.10\.2\+fabric] by Snownee
 - [Jade Addons](https://modrinth.com/mod/fThnVRli) [6\.0\.3\+fabric] by Snownee
@@ -144,6 +148,7 @@ You can also import shader packs you've downloaded elsewhere by dragging them in
 - [Macaw's Trapdoors](https://modrinth.com/mod/n2fvCDlM) [1\.1\.4] by SketchMacaw
 - [Macaw's Windows](https://modrinth.com/mod/C7I0BCni) [2\.4\.0] by SketchMacaw
 - [MaxHealthFix](https://modrinth.com/mod/mH8wdmqr) [21\.1\.4] by Darkhax
+- [Mermod](https://modrinth.com/mod/ORiydwz3) [3\.3\.2] by ThatPreston
 - [MidnightLib](https://modrinth.com/mod/codAaoxh) [1\.7\.5] by Motschen, TeamMidnightDust
 - [Mod Menu](https://modrinth.com/mod/mOgUt4GM) [11\.0\.3] by Prospector, haykam821, TerraformersMC
 - [Model Gap Fix](https://modrinth.com/mod/QdG47OkI) [1\.21\-1\.6] by MehVahdJukaar
@@ -161,8 +166,10 @@ You can also import shader packs you've downloaded elsewhere by dragging them in
 - [Ocean's Delight](https://modrinth.com/mod/DGiq4ZSW) [fdrf\-fabric\-1\.0\.2\-1\.21] by Scouter
 - [PPeTP](https://modrinth.com/mod/KbPewBWv) [1\.2\.1] by TheEpicBlock
 - [PacketFixer](https://modrinth.com/mod/c7m1mi73) [3\.3\.0] by TonimatasDEV
+- [Patchouli](https://modrinth.com/mod/nU0bVIaL) [1\.21\.1\-92\-FABRIC] by Vazkii, williewillus
 - [Pick Up Notifier](https://modrinth.com/mod/ZX66K16c) [21\.1\.1] by Fuzs
 - [Placeholder API](https://modrinth.com/mod/eXts2L7r) [2\.4\.2\+1\.21] by Patbox
+- [Player Collars](https://modrinth.com/mod/E1XS8bXN) [1\.6\.0\-beta\.2\+1\.21\.1] by jlortiz0
 - [Plushie Mod](https://modrinth.com/mod/hsOK0gUP) [1\.5\.1] by Link4real, Vento
 - [PneumonoCore](https://modrinth.com/mod/ZLKQjA7t) [1\.21\.1] by Pneumono\_
 - [Polymer](https://modrinth.com/mod/xGdtZczs) [0\.9\.18\+1\.21\.1] by Patbox
@@ -179,6 +186,7 @@ You can also import shader packs you've downloaded elsewhere by dragging them in
 - [Searchables](https://www.curseforge.com/projects/858542) [1\.0\.2] by Jaredlll08
 - [Secure Crops](https://modrinth.com/mod/G89SpEyJ) [2\.0\.1] by zekk051
 - [Server Replay Mod](https://modrinth.com/mod/qCvSZ8ra) [1\.2\.10] by Sensei
+- [Show Me Your Skin\!](https://modrinth.com/mod/bD7YqcA3) [1\.11\.3\+1\.21] by enjarai
 - [Simple Pocket Machines](https://modrinth.com/mod/Cf7t0PTf) [1\.0\.4] by HypherionSA
 - [Simple Villager Follow](https://modrinth.com/mod/TLfqKtxl) [1\.0\.0] by Leclowndu93150, Lupin
 - [Sit](https://modrinth.com/mod/VKXzIykF) [1\.21\-28] by bl4ckscor3
@@ -197,13 +205,14 @@ You can also import shader packs you've downloaded elsewhere by dragging them in
 - [TerraBlender](https://modrinth.com/mod/kkmrDlKT) [4\.1\.0\.8] by Adubbz
 - [The Aether](https://modrinth.com/mod/YhmgMVyu) [1\.5\.11] by AlphaMode, baguchi, bconlon, Blodhgarm, Burning Cactus, Drullkus, Hugo Payn, Jaryt, Katie 'Oz' Payn, quek, Raptor, reetam, RENREN, sunsette
 - [The Bumblezone \- Fabric](https://modrinth.com/mod/eA8SXqWL) [7\.11\.5\+1\.21\.1\-fabric] by TelepathicGrunt
+- [Tom's Simple Storage Mod](https://modrinth.com/mod/XZNI4Cpy) [2\.2\.3] by tom5454
 - [Touhou Little Maid: Orihime](https://modrinth.com/mod/Tv58SCnQ) [0\.5\.0\-neo1\.4\.6] by Sh1roCu
 - [Towns and Towers](https://modrinth.com/mod/DjLobEOy) [1\.13\.7] by Kubek and Biban\_Auriu, Cristelknight999
 - [Transfer Pet Owner](https://modrinth.com/mod/7iTYUCAo) [1\-v\.1\.0\.0] by Jodek
 - [TrashSlot](https://modrinth.com/mod/vRYk0bv7) [21\.1\.4] by BlayTheNinth
 - [Traveler's Backpack](https://modrinth.com/mod/rlloIFEV) [10\.1\.27] by Tiviacz1337
-- [Trinkets](https://modrinth.com/mod/G8hlgtEk) [3\.10\.0\+polymerport\.2] by Emi, C4, Patbox \(Polymer Port\)
 - [Trinkets](https://modrinth.com/mod/5aaWibi9) [3\.10\.0] by Emi, C4
+- [Trinkets](https://modrinth.com/mod/G8hlgtEk) [3\.10\.0\+polymerport\.2] by Emi, C4, Patbox \(Polymer Port\)
 - [Villager Names](https://modrinth.com/mod/gqRXDo8B) [8\.2] by Rick South
 - [Visual Workbench](https://modrinth.com/mod/kfqD1JRw) [21\.1\.1] by Fuzs
 - [Waystones](https://modrinth.com/mod/LOpKHB2A) [21\.1\.23] by BlayTheNinth
