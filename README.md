@@ -6,13 +6,13 @@ Moon's minecraft modlist
 - Download the Mod Pack from Moon's Discord Server
 
 Once you've installed Prism Launcher, logged in, and downloaded the mods, you can set up the modpack by either:
-- Dragging the Mooncraft_1.2.zip file directly into the Prism Launcher window and clicking "OK"
-- OR Clicking "Create Instance" in Prism Launcher, selecting "Import", then "Browse", and then selecting the Mooncraft_1.2.zip file. and clicking "OK"
+- Dragging the Mooncraft_1.2.1.zip file directly into the Prism Launcher window and clicking "OK"
+- OR Clicking "Create Instance" in Prism Launcher, selecting "Import", then "Browse", and then selecting the Mooncraft_1.2.1.zip file. and clicking "OK"
 
 The default RAM allocation may be set to 20 Gigabytes. If your system has less than this you can set it to a lower value; ideally above 8 Gigabytes, probably.
 
 To do this:
-- Right click on the "Mooncraft_1.2" instance in Prism Launcher.
+- Right click on the "Mooncraft_1.2.1" instance in Prism Launcher.
 - Select "Edit"
 - Navigate to the "Settings" tab
 - Under the "Memory" section, adjust the "Maximum memory allocation" value to another value:
@@ -22,7 +22,7 @@ To do this:
   - 16 Gigabytes (16384)
   - and so on
 
-That should be it for set up. Make sure you've logged in to your Minecraft account. Then double click the Mooncraft_1.2 instance to launch.
+That should be it for set up. Make sure you've logged in to your Minecraft account. Then double click the Mooncraft_1.2.1 instance to launch.
 
 ## Shaders (Optional)
 
@@ -68,6 +68,7 @@ You can also import shader packs you've downloaded elsewhere by dragging them in
 - [Collective](https://modrinth.com/mod/e0M1UDsY) [8\.13] by Rick South
 - [Comforts](https://modrinth.com/mod/SaCpeal4) [9\.0\.4\+1\.21\.1] by Illusive Soulworks
 - [Concurrent Chunk Management Engine](https://modrinth.com/mod/VSNURh3q) [0\.3\.0\+alpha\.0\.362\+1\.21\.1] by RelativityMC, ishland
+- [Configurable](https://modrinth.com/mod/lGffrQ3O) [3\.3\.2] by Bawnorton
 - [Configured](https://modrinth.com/mod/HlpEBg3R) [1\.8\.0] by fooeyround
 - [Controlling](https://modrinth.com/mod/xv94TkTM) [19\.0\.5] by Jaredlll08
 - [Copper Hopper](https://modrinth.com/mod/mTI5Xg5F) [0\.10\.0\+1\.21\.1] by pcal\.net
@@ -161,7 +162,9 @@ You can also import shader packs you've downloaded elsewhere by dragging them in
 - [Mouse Tweaks](https://modrinth.com/mod/aC3cM3Vq) [2\.26] by Ivan Molodetskikh \(YaLTeR\)
 - [My Nether's Delight](https://modrinth.com/mod/uIOfYdnw) [1\.21\.1\-2\.0\.3\+1\.7\.8\.refabricated] by SoyTutta, MerchantCalico
 - [Nature's Compass](https://modrinth.com/mod/fPetb5Kh) [1\.21\.1\-2\.2\.7\-fabric] by ChaosTheDude
+- [Neruina](https://modrinth.com/mod/1s5x833P) [3\.1\.6] by Bawnorton
 - [No Chat Reports](https://modrinth.com/mod/qQyHxfxd) [1\.21\.1\-v2\.9\.1] by Aizistral
+- [NoMoWanderer](https://modrinth.com/mod/BAGslLB8) [1\.10\.1] by J\-Dill
 - [Noisium](https://modrinth.com/mod/KuNKN7d2) [2\.3\.0\+mc1\.21\-1\.21\.1] by Steveplays28
 - [Ocean's Delight](https://modrinth.com/mod/DGiq4ZSW) [fdrf\-fabric\-1\.0\.2\-1\.21] by Scouter
 - [PPeTP](https://modrinth.com/mod/KbPewBWv) [1\.2\.1] by TheEpicBlock
@@ -211,8 +214,8 @@ You can also import shader packs you've downloaded elsewhere by dragging them in
 - [Transfer Pet Owner](https://modrinth.com/mod/7iTYUCAo) [1\-v\.1\.0\.0] by Jodek
 - [TrashSlot](https://modrinth.com/mod/vRYk0bv7) [21\.1\.4] by BlayTheNinth
 - [Traveler's Backpack](https://modrinth.com/mod/rlloIFEV) [10\.1\.27] by Tiviacz1337
-- [Trinkets](https://modrinth.com/mod/5aaWibi9) [3\.10\.0] by Emi, C4
 - [Trinkets](https://modrinth.com/mod/G8hlgtEk) [3\.10\.0\+polymerport\.2] by Emi, C4, Patbox \(Polymer Port\)
+- [Trinkets](https://modrinth.com/mod/5aaWibi9) [3\.10\.0] by Emi, C4
 - [Villager Names](https://modrinth.com/mod/gqRXDo8B) [8\.2] by Rick South
 - [Visual Workbench](https://modrinth.com/mod/kfqD1JRw) [21\.1\.1] by Fuzs
 - [Waystones](https://modrinth.com/mod/LOpKHB2A) [21\.1\.23] by BlayTheNinth
