@@ -39,13 +39,14 @@ Once you've installed Prism Launcher, logged in, and downloaded the mods, you ca
 
 
 
-## The default RAM allocation may be set to 10 Gigabytes. If your system has less than this you can set it to a lower value; ideally above 8 Gigabytes, probably.
+## The default RAM allocation may be set to 10 Gigabytes. If your system has less than this you, or you'd like to allocate more, you can change it; ideally above 8 Gigabytes, probably.
 
 To do this:
 - Right click on the "Mooncraft_X.X" instance in Prism Launcher.
 - Select "Edit"
 - Navigate to the "Settings" tab
 - Under the "Memory" section, adjust the "Maximum memory allocation" value to another value:
+  - 6 Gigabytes (6144 MiB)
   - 8 Gigabytes (8192 MiB)
   - 10 Gigabytes (10240 MiB)
   - 12 Gigabytes (12288 MiB)
