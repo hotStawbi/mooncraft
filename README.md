@@ -6,9 +6,9 @@ Moon's minecraft modlist
 
 ### IN MOONCRAFT 1.3 WE WILL BE IMPLEMENTING THE JMWS (JOURNEYMAP WAYPOINT SYNCING) MOD, WHICH SHOULD PREVENT YOU FROM LOSING YOUR WAYPOINTS IN THE FUTURE.
 
-## Instructions
+# Instructions
 
-### FOR NEW PLAYERS/FRESH INSTALLS ONLY
+## FOR NEW PLAYERS/FRESH INSTALLS ONLY
 - Download [Prism Launcher](https://prismlauncher.org/)
 - Download the Mod Pack from Moon's Discord Server
 
@@ -20,7 +20,7 @@ Once you've installed Prism Launcher, logged in, and downloaded the mods, you ca
   - Just right click on the instance, and select "Rename"
 
 
-### TO UPGRADE FROM PREVIOUS VERSION OF MOONCRAFT
+## TO UPGRADE FROM PREVIOUS VERSION OF MOONCRAFT
 - Download the latest Mod Pack from Moon's Discord Server
 - In Prism Launcher, right click on the previous version of Mooncraft, then select "Folder"
 - Within that folder, enter the "minecraft" folder
@@ -35,11 +35,11 @@ Once you've installed Prism Launcher, logged in, and downloaded the mods, you ca
   - Just right click on the instance, and select "Rename"
 
 
-#### As long as your system has at least 12GB of RAM, that's it! If not, continue to the section on RAM Allocation.
+### As long as your system has at least 12GB of RAM, that's it! If not, continue to the section on RAM Allocation.
 
 
 
-### The default RAM allocation may be set to 10 Gigabytes. If your system has less than this you can set it to a lower value; ideally above 8 Gigabytes, probably.
+## The default RAM allocation may be set to 10 Gigabytes. If your system has less than this you can set it to a lower value; ideally above 8 Gigabytes, probably.
 
 To do this:
 - Right click on the "Mooncraft_X.X" instance in Prism Launcher.
