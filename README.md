@@ -8,7 +8,7 @@ Moon's minecraft modlist
 
 ## Instructions
 
-### FOR NEW PLAYERS/FRESH INSTALLS ONLY (TO UPGRADE, FOLLOW THE INSTRUCTIONS FOR UPGRADING)
+### FOR NEW PLAYERS/FRESH INSTALLS ONLY
 - Download [Prism Launcher](https://prismlauncher.org/)
 - Download the Mod Pack from Moon's Discord Server
 
