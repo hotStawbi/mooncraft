@@ -15,6 +15,10 @@ Moon's minecraft modlist
 Once you've installed Prism Launcher, logged in, and downloaded the mods, you can set up the modpack by either:
 - Dragging the Mooncraft_X.X.zip file directly into the Prism Launcher window and clicking "OK"
 - __OR__ Clicking "Create Instance" in Prism Launcher, selecting "Import", then "Browse", and then selecting the Mooncraft_X.X.zip file. and clicking "OK"
+  <br></br>
+- (Optional) You may also want to rename the instance to something like "Mooncraft", so that it doesn't have a version number attached to the name.
+  - Just right click on the instance, and select "Rename"
+
 
 ### TO UPGRADE FROM PREVIOUS VERSION OF MOONCRAFT
 - Download the latest Mod Pack from Moon's Discord Server
