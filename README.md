@@ -2,24 +2,40 @@
 Moon's minecraft modlist
 
 ## HEADS UP FOR UPGRADING
-### MAP DATA AND CUSTOM WAYPOINTS ARE SAVED IN YOUR INSTALL OF MINECRAFT AND DON'T CARRY OVER BETWEEN UPDATES
-### TO FIX THIS YOU CAN:
-- RIGHT CLICK THE NEW INSTANCE OF MOONCRAFT, CLICK "Folder", THEN ENTER THE "minecraft" FOLDER.
-  - If there is a folder called "journeymap" and/or "waypoints", DELETE THEM.
-- RIGHT CLICK ON THE PREVIOUS INSTANCE OF MOONCRAFT, CLICK "Folder", ENTER THE "minecraft" FOLDER, AND FIND THE FOLDER CALLED "journeymap" AS WELL AS A FOLDER CALLED "waypoints" AND COPY THEM.
-- PASTE THESE FILES INTO THE NEW INSTANCE OF MOONCRAFT'S "minecraft" FOLDER.
+### INSTRUCTIONS HAVE BEEN SLIGHTLY ALTERED, AS THE OLD METHOD IS BEST FOR FRESH INSTALLS/NEW PLAYERS, WHILE UPGRADING IS (ONLY SLIGHTLY) MORE COMPLICATED. IN ORDER TO RETAIN YOUR CUSTOM WAYPOINTS, PLEASE FOLLOW THE INSTRUCTIONS FOR UPGRADING!
+
 ## Instructions
+
+### FOR NEW PLAYERS/FRESH INSTALLS ONLY (TO UPGRADE, FOLLOW THE INSTRUCTIONS FOR UPGRADING)
 - Download [Prism Launcher](https://prismlauncher.org/)
 - Download the Mod Pack from Moon's Discord Server
 
 Once you've installed Prism Launcher, logged in, and downloaded the mods, you can set up the modpack by either:
-- Dragging the Mooncraft_1.2.1.zip file directly into the Prism Launcher window and clicking "OK"
-- __OR__ Clicking "Create Instance" in Prism Launcher, selecting "Import", then "Browse", and then selecting the Mooncraft_1.2.1.zip file. and clicking "OK"
+- Dragging the Mooncraft_X.X.zip file directly into the Prism Launcher window and clicking "OK"
+- __OR__ Clicking "Create Instance" in Prism Launcher, selecting "Import", then "Browse", and then selecting the Mooncraft_X.X.zip file. and clicking "OK"
 
-The default RAM allocation may be set to 20 Gigabytes. If your system has less than this you can set it to a lower value; ideally above 8 Gigabytes, probably.
+### TO UPGRADE FROM PREVIOUS VERSION OF MOONCRAFT
+- Download the latest Mod Pack from Moon's Discord Server
+- In Prism Launcher, right click on the previous version of Mooncraft, then select "Folder"
+- Within that folder, enter the "minecraft" folder
+- Find the folder called "mods", and DELETE IT.
+- Open the zip file you downloaded containing the new modpack, then open the "minecraft" folder within it.
+- Select all files from the zip file, and drag them into your previous installation. Overwriting, if asked.
+- Once this is done, right click on the instance of Mooncraft in "Prism Launcher", and select "Edit"
+- Proceed to the "Version" tab, and select "Fabric Loader" from the list.
+- If the given Version is not **0.18.4**, select "Change Version" from the panel on the right, and select that version.
+- (Optional) You may also want to rename the instance to something like "Mooncraft", so that it doesn't have a version number attached to the name.
+  - Just right click on the instance, and select "Rename"
+
+
+#### As long as your system has at least 12GB of RAM, that's it! If not, continue to the section on RAM Allocation.
+
+
+
+### The default RAM allocation may be set to 10 Gigabytes. If your system has less than this you can set it to a lower value; ideally above 8 Gigabytes, probably.
 
 To do this:
-- Right click on the "Mooncraft_1.2.1" instance in Prism Launcher.
+- Right click on the "Mooncraft_X.X" instance in Prism Launcher.
 - Select "Edit"
 - Navigate to the "Settings" tab
 - Under the "Memory" section, adjust the "Maximum memory allocation" value to another value:
@@ -29,7 +45,7 @@ To do this:
   - 16 Gigabytes (16384)
   - and so on
 
-That should be it for set up. Make sure you've logged in to your Minecraft account. Then double click the Mooncraft_1.2.1 instance to launch.
+That should be it for set up. Make sure you've logged in to your Minecraft account. Then double click the Mooncraft instance to launch.
 
 ## Shaders (Optional)
 
