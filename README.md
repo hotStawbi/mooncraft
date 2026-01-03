@@ -26,7 +26,8 @@ Once you've installed Prism Launcher, logged in, and downloaded the mods, you ca
 - Within that folder, enter the "minecraft" folder
 - Find the folder called "mods", and DELETE IT.
 - Open the zip file you downloaded containing the new modpack, then open the "minecraft" folder within it.
-- Select all files from the zip file, and drag them into your previous installation. Overwriting, if asked.
+- Select all files from the zip file, and drag them into your previous installation. If you would like to retain your own settings and keybinds, select all files EXCEPT for "options.txt"
+- Overwrite, if asked.
 - Once this is done, right click on the instance of Mooncraft in "Prism Launcher", and select "Edit"
 - Proceed to the "Version" tab, and select "Fabric Loader" from the list.
 - If the given Version is not **0.17.3**, select "Change Version" from the panel on the right, and select that version.
