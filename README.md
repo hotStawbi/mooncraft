@@ -29,7 +29,7 @@ Once you've installed Prism Launcher, logged in, and downloaded the mods, you ca
 - Select all files from the zip file, and drag them into your previous installation. Overwriting, if asked.
 - Once this is done, right click on the instance of Mooncraft in "Prism Launcher", and select "Edit"
 - Proceed to the "Version" tab, and select "Fabric Loader" from the list.
-- If the given Version is not **0.18.4**, select "Change Version" from the panel on the right, and select that version.
+- If the given Version is not **0.17.3**, select "Change Version" from the panel on the right, and select that version.
   <br></br>
 - (Optional) You may also want to rename the instance to something like "Mooncraft", so that it doesn't have a version number attached to the name.
   - Just right click on the instance, and select "Rename"
